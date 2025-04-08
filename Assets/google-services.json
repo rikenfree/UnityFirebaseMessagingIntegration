@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "281974375465",
+    "project_id": "testpush-2a9e1",
+    "storage_bucket": "testpush-2a9e1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281974375465:android:b3a2185401d63f969d0838",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.PushNotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZD4fIb3TeWthmu11534DvkzwjNI7etoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
